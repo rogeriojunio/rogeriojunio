@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+
+I decided to create this profile on GitHub to share my Data Science portfolio, I intend to show my knowledge of important tools in the area and how to use them creatively to solve business problems.
+
 **rogeriojunio/rogeriojunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
